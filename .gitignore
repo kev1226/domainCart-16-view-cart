@@ -9,7 +9,6 @@
 
 # Módulos y dependencias
 /vendor/
-go.sum
 
 # IDEs
 .idea/
